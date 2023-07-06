@@ -1,12 +1,12 @@
 # ETL-project
 
-### Dataset
+## Dataset
 
 The dataset used in this project is stored in the following file:
 
 **ETL_project-postal_codes.csv**: This CSV file contains postal code data for analysis and processing.
 
-### Project Structure
+## Project Structure
 
 The repository is organized as follows:
 
